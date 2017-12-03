@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRM.iml" filepath="$PROJECT_DIR$/CRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CRM1/CRM1.iml" filepath="$PROJECT_DIR$/../CRM1/CRM1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lucene01/lucene01.iml" filepath="$PROJECT_DIR$/../lucene01/lucene01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lucene02/lucene02.iml" filepath="$PROJECT_DIR$/../lucene02/lucene02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solr01/solr01.iml" filepath="$PROJECT_DIR$/../solr01/solr01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../solr02/solr02.iml" filepath="$PROJECT_DIR$/../solr02/solr02.iml" />
+    </modules>
+  </component>
+</project>
